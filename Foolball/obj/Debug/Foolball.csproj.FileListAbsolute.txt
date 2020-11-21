@@ -1,0 +1,12 @@
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\obj\Debug\Foolball.pdb
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\bin\Debug\Foolball.exe
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\bin\Debug\Foolball.pdb
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\obj\Debug\Foolball.csprojAssemblyReference.cache
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\obj\Debug\Foolball.Form1.resources
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\obj\Debug\Foolball.F_Settings.resources
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\obj\Debug\Foolball.F_Info.resources
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\obj\Debug\Foolball.F_Main.resources
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\obj\Debug\Foolball.Properties.Resources.resources
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\obj\Debug\Foolball.csproj.GenerateResource.cache
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\obj\Debug\Foolball.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\Documents\Visual Studio 2005\Projects\Foolball\Foolball\obj\Debug\Foolball.exe

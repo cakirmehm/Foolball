@@ -1,0 +1,11 @@
+D:\MCakirProjeler\Foolball\Foolball\bin\Debug\Foolball.exe
+D:\MCakirProjeler\Foolball\Foolball\bin\Debug\Foolball.pdb
+D:\MCakirProjeler\Foolball\Foolball\obj\Debug\ResolveAssemblyReference.cache
+D:\MCakirProjeler\Foolball\Foolball\obj\Debug\Foolball.Properties.Resources.resources
+D:\MCakirProjeler\Foolball\Foolball\obj\Debug\Foolball.csproj.GenerateResource.Cache
+D:\MCakirProjeler\Foolball\Foolball\obj\Debug\Foolball.exe
+D:\MCakirProjeler\Foolball\Foolball\obj\Debug\Foolball.pdb
+D:\MCakirProjeler\Foolball\Foolball\obj\Debug\Foolball.F_Main.resources
+D:\MCakirProjeler\Foolball\Foolball\obj\Debug\Foolball.F_Info.resources
+D:\MCakirProjeler\Foolball\Foolball\obj\Debug\Foolball.F_Settings.resources
+D:\MCakirProjeler\Foolball\Foolball\obj\Debug\Foolball.Form1.resources
